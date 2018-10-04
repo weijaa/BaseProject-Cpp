@@ -9,6 +9,9 @@ int main() {
     return 0;
 }
 #endif // TEST
+int ttt(int a){
+    return a*2;
+}
 
 int addNumber(int a, int b) {
     return a + b;
